@@ -12,15 +12,16 @@ ist mein Beitrag zur Workshop-Initiative "[K]amification -  Kultur für Games, G
 ## Backlog geplanter Funktionen:
 
   1. Rückgabe des passenden Geldbetrags durch Einzelhandel-Mitarbeiterin an der Kasse im Einzelhandel
-  1. "Passendes Bezahlen mit einem in der Geldbörse vorhandenen Geldbetrag" - Käufer soll 13 EUR zahlen, sieht seine Geldbörse mit Geldscheinen und Münzen vor sich, und muss die geforderte Geldsumme bei der Bezahlung übertreffen
+  1. "Passendes Bezahlen mit einem in der Geldbörse vorhandenen Geldbetrag" - Beispiel: Käufer soll 13 EUR zahlen, sieht seine Geldbörse mit Geldscheinen und Münzen vor sich, und muss die geforderte Geldsumme bei der Bezahlung übertreffen
   1. Das im Einzelhandel unbeliebte "Geldwechseln" - "Entschuldigung, können Sie mir bitte das Geld wechseln, ich muss hier oder woanders mit Münzen zahlen, habe aber nur Geldscheine oder die falschen Münzen".
   1. Zuordnung einer mathematischen Zahl ( Geldbetrag ) zu einer Folge von Zahlen ( Folge der Geldscheine und Geldmünzen, die in Summe den Geldbetrag ergeben ) 
   1. Als Erweiterung könnte ich mir vorstellen, dass die Geldsumme nur "vorgelesen" wird, so wie der Geldbetrag bei einer Einzelhandels-Kassierin dem Kunden mündlich genannt wird, also nicht als Zahl auf dem Bildschirm angezeigt wird: Zuordnung eines gesprochenen Geldbetrags zu einer mathematischen Zahl ( Geldbetrag) und als Folge von Zahlen ( Folge der Geldscheine und Geldmünzen, die in Summe den Geldbetrag ergeben )
 
 ## Zielgruppen:
   1. Kinder ab 2. Klasse die die Grundrechenarten beherrschen
-  2. Menschen aus anderen Ländern, in denen der EUR kein Zahlungsmittel ist ( Touristen aus EUR-EU-Ländern, Touristen / Migranten / Zuwanderer aus EU-Ländern in denen der EUR kein Zahlungsmittel ist, von ausserhalb der EU, ,.. ).
-  2. Menschen, die auf eine berufliche Integration als KassiererIn im Einzelhandel hoffen. Man könnte sich auch vorstellen, dass die Software-Anwendung zur Berufsvorbereitung oder gar als Einstellungstest verwendet wird.
+  1. Menschen aus anderen Ländern, in denen der EUR Zahlungsmittel ist ( Touristen / Migranten / Zuwanderer aus EUR-EU-Ländern ), die aber mit den deutschen Namen für Zahlen und Geldbeträge nicht vertraut sind, und dabei die verbale Zahlungsabwicklung "Bitte zahlen Sie 13 EUR" oder "Ich bekomme von Ihnen 13 EUR" ) üben wollen
+  1. Menschen aus anderen Ländern, in denen der EUR kein Zahlungsmittel ist ( Touristen / Migranten / Zuwanderer aus EU-Ländern, von ausserhalb der EU, ... ).
+  1. Menschen, die auf eine berufliche Integration als KassiererIn im Einzelhandel hoffen. Man könnte sich auch vorstellen, dass die Software-Anwendung zur Berufsvorbereitung oder gar als Einstellungstest verwendet wird.
 
 ## Soziokultureller Lerneffekt: 
 ### Für die späteren Nutzer
