@@ -30,3 +30,12 @@ Bei der Vorstellungsrunde in der 2er Reihe habe ich jedem Gegenüber mein Projek
     Ich verwende einstweilen die ab der 3. Schulklasse als geeignet angesehene graphische Programmiersprache
 http://de.wikipedia.org/wiki/Snap!_(BYOB) , Nachfolger der recht bekannten graphische Programmiersprache http://de.wikipedia.org/wiki/Scratch_(Programmiersprache). Eine praktische Mitarbeit beim Codieren wäre also auch den Nicht-Softwareentwicklern auf der Veranstaltung möglich
 
+## Resourcen
+### Banknoten
+  http://www.neue-euro-banknoten.eu/
+    https://www.bundesbank.de/Navigation/DE/Aufgaben/Bargeld/Euro_Banknoten/euro_banknoten.html
+
+### Münzen
+  https://www.bundesbank.de/Navigation/DE/Aufgaben/Bargeld/Euro_Muenzen/Regulaere_Umlaufmuenzen/reguelaere_umlaufmuenzen.html
+
+
