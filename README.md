@@ -23,9 +23,10 @@ http://pavillon-hannover.de/programm/veranstaltung/?nr=34081
   2. Menschen, die auf eine berufliche Integration als KassiererIn im Einzelhandel hoffen. Man könnte sich auch vorstellen, dass die Software-Anwendung zur Berufsvorbereitung oder gar als Einstellungstest verwendet wird.
 
 ## Soziokultureller Lerneffekt: 
-  1. Für die späteren Nutzer. Schaffen von Vertrauen in der Gesellschaft bei der traditionellen Bezahlung mit Münzen und Papiergeld: Der der die Geldsumme zahlt bzw. Restbetrag herausgibt, enttäuscht das in ihn/sie gebrachte Vertrauen nicht, da er ausreichend geübt ist, die Sache richtig zu machen. Gerade in einem "fremden Land", also z.B. im Urlaub, ist das sichere Auftreten beim Bezahlen in einem Selbstbedienungs-Supermarkt die einzige Hürde bei der Selbstversorgung mit Lebensmitteln und anderen Gütern des täglichen Bedarfs.
-  1. Für die Projektteilnehmer. 
-    Bei der Vorstellungsrunde in der 2er Reihe habe ich jedem Gegenüber mein Projekt vorgestellt, einige kannten die Programmiersprache schon, andere sahen einen Sinn in der Anwendung.
+### Für die späteren Nutzer
+Schaffen von Vertrauen in der Gesellschaft bei der traditionellen Bezahlung mit Münzen und Papiergeld: Der der die Geldsumme zahlt bzw. Restbetrag herausgibt, enttäuscht das in ihn/sie gebrachte Vertrauen nicht, da er ausreichend geübt ist, die Sache richtig zu machen. Gerade in einem "fremden Land", also z.B. im Urlaub, ist das sichere Auftreten beim Bezahlen in einem Selbstbedienungs-Supermarkt die einzige Hürde bei der Selbstversorgung mit Lebensmitteln und anderen Gütern des täglichen Bedarfs.
+### Für die Projektteilnehmer 
+Bei der Vorstellungsrunde in der 2er Reihe habe ich jedem Gegenüber mein Projekt vorgestellt, einige kannten die Programmiersprache schon, andere sahen einen Sinn in der Anwendung.
     Ich verwende einstweilen die ab der 3. Schulklasse als geeignet angesehene graphische Programmiersprache
 http://de.wikipedia.org/wiki/Snap!_(BYOB) , Nachfolger der recht bekannten graphische Programmiersprache http://de.wikipedia.org/wiki/Scratch_(Programmiersprache). Eine praktische Mitarbeit beim Codieren wäre also auch den Nicht-Softwareentwicklern auf der Veranstaltung möglich
 
