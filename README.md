@@ -8,6 +8,9 @@ ist mein Beitrag zur Workshop-Initiative "[K]amification -  Kultur für Games, G
   - http://www.facebook.com/groups/130201924470251/
   - http://www.padlet.com/marcus_munzlinger/453j8je5xguz
   - http://pavillon-hannover.de/programm/veranstaltung/?nr=34081
+  
+## Online-Version, zur Ausführung im Internet-Browser
+https://snap.berkeley.edu/snapsource/snap.html#present:Username=hemmerling&ProjectName=kamification
 
 ## Backlog geplanter Funktionen:
 
